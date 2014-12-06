@@ -1,0 +1,32 @@
+{
+  "name": "blank-css-media",
+  "version": "0.1.0",
+  "description": "Media styles for blank-css",
+  "main": "media.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-global-media",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "media"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blank-css-config": "~0.1.0",
+    "blank-css-rem": "~0.1.0"
+  }
+}
